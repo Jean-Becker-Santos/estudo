@@ -1,1 +1,4 @@
-print('hello Jean')
+mensagem = 'jean'
+
+
+print(mensagem)
