@@ -1,4 +1,0 @@
-mensagem = 'jean'
-
-
-print(mensagem)
